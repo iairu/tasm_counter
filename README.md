@@ -13,7 +13,8 @@ Some notes are in Slovak (such as the requirements for this exercise and selecte
 ```
 Help for SPAASM Z1:
 Ondrej Spanik 2022 (c) iairu.com
-Program will output the amount of digits, small letters, big letters and other characters for every line and for the whole input (file).
+Program will output the amount of digits, small letters, big letters and other characters for 
+every line and for the whole input (file).
 
 Possible arguments:
 [file] - Program input at the given point
